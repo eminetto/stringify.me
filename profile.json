@@ -1,15 +1,13 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
-		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"name": "Elton Minetto",
+		"label": "Software developer, teacher, speaker, open source evangelist, tech leader",
+		"picture": "elton-cto.gif",
+		"email": "eminetto@gmail.com",
+		"website": "https://eltonminetto.net",
+		"twitter": "https://twitter.com/eminetto",
+		"github": "http://github.com/eminetto",
+		"summary": "I spent the last years studying and applying new software architectures (clean architecture is my favorite), adding programming languages to my personal toolbox (specially PHP and Go, my current preferred language), doing deploys to a cloud environment (using AWS, Digital Ocean, containers and continuous integration), leading agile teams, writing posts and speaking in a bunch of events. "
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
